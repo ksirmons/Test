@@ -2,3 +2,4 @@ this is another test
 and now I will determine how branching works with github
 
 update
+update on mac!
