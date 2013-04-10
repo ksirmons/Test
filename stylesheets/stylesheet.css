@@ -262,8 +262,8 @@ h3.current_item { background-image:url(../images/section_nav/section_nav_h3_curr
 .default_style_wrap h6 { margin: 2.33em 0; }
 
 
-.banner_image{width: 613px; height: 98px;}
-.banner_image div#banner{width: 613px; height: 98px; }
+.banner_image { width: 613px; height: 98px; }
+.banner_image div#banner{ width: 613px; height: 98px; background-image: url(../images/Temp_MPSP_Banner.jpg); }
 .banner_image h4 { font-size: 25px; color: #fff; font-family:"Trebuchet MS",Arial,Helvetica,sans-serif; font-weight:bold; padding: 4px 0 0 10px; width: 600px; }
 .banner_image p { font-size: 14px; color: #99ccff; padding: 0 0 4px 10px; width: 600px; }
 .banner_image a{ text-decoration:none; }
